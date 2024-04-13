@@ -1,0 +1,29 @@
+* {
+    font-family: 'Noah Grotesque', sans-serif;
+}
+
+form input {
+    display: flex;
+    margin-top: 10px;
+    height: 30px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+form h1 {
+    font-size: 50px;
+}
+
+form h2 {
+    font-size: 23px;
+}
+
+.botao {
+    margin-top: 15px;
+    height: 40px;
+    width: 70px;
+    border: none;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 17px;
+}
